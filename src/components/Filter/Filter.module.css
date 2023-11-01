@@ -1,0 +1,20 @@
+.filterContainer {
+  display: flex;
+}
+.filterbarselect {
+  margin-right: 10px;
+    margin: 5px;
+    padding: 8px;
+    border: 3px solid #111111;
+    border-radius: 20px;
+    background-color: #fdfdfb;
+    color: #0a0000;
+    font-size: medium;
+    font-weight: 300;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+  .filterbarselect:hover{
+    background-color: #d5cfcf;
+  }
+
+  
